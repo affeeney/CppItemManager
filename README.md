@@ -1,11 +1,5 @@
 # C++ Portfolio: Grocery Management System
 
-## Overview
-
-The Grocery Management System is a C++ program aimed at simplifying the tracking of grocery items. This application searches for items, views quantities, and visualizes the distribution of items through a histogram. Data is transferred to a seperate file, ensuring the user's data integrity.
-
-## Reflections
-
 ### Summary
 
 The goal was to create a Grocery Management System in C++ that tracks and manages grocery items. The system has features like searching for items, viewing quantities, and presenting a visual representation. This project served as a solution to track and manage items on a typical grocery list.
@@ -28,4 +22,4 @@ My proficiency in the C++ language and data structures, cultivated during the de
 
 ### Maintenance
 
-To ensure maintainability, I adopted a modular approach in designing the GroceryManager class, making the code readable and adaptable.
+To ensure maintainability, I used an modular approach in designing the GroceryManager class, making the code readable and adaptable.
