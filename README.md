@@ -6,7 +6,7 @@ The goal was to create a Grocery Management System in C++ that tracks and manage
 
 ### What I Did Well
 
-I focused on creating structured code for the GroceryManager class. Using maps for item storage, and the implementation of functions like `loadDataFromFile()` and `saveDataToFile()` demonstrate my ability to read and write from files, and to design a well-structured codebase. 
+I focused on creating structured code for the GroceryManager class. Implementation of complex functions demonstrate my ability to read and write from files, and to design a well-structured codebase. 
 
 ### Areas for Improvement
 
